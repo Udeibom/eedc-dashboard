@@ -44,7 +44,7 @@ Screenshot:
 ✍️ Author
 👤 Caleb Udeibom
 📅 Week: 3
-📬 LinkedIn:
+📬 LinkedIn: www.linkedin.com/in/caleb-udeibom-3495a023b
 
 📌 Future Plans:
 Expand data coverage from Jan 2024 to May 2025
