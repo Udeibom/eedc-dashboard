@@ -76,5 +76,5 @@ if st.checkbox("Show Monthly Trend by Feeder"):
     # Footer
     st.markdown("""
     ---
-    Built with ❤️ using [Streamlit](https://streamlit.io/) | [View Source on GitHub](https://github.com/Udeibom/eedc-energy-dashboard)
+    Built with ❤️ using [Streamlit](https://streamlit.io/) | [View Source on GitHub](https://github.com/Udeibom/eedc-dashboard)
     """)
